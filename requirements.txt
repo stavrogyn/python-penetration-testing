@@ -1,0 +1,2 @@
+python-nmap==0.6.4
+ipaddress==1.0.23
